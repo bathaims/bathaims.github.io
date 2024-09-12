@@ -2,4 +2,6 @@ baseURL = '/'
 languageCode = 'en-us'
 title = 'Applied and Interdisciplinary Mathematics at Bath'
 
+publishDir = "docs"
+
 theme = 'no-style-please'
