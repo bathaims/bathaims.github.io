@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Applied and Interdisciplinary Mathematics at Bath'
+
+theme = 'no-style-please'
