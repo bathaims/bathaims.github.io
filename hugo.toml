@@ -1,4 +1,4 @@
-baseURL = '/'
+# baseURL = '/'
 languageCode = 'en-us'
 title = 'Applied and Interdisciplinary Mathematics at Bath'
 
