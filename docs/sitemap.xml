@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://bathaims.github.io/</loc>
+    <lastmod>2024-09-13T12:23:40+01:00</lastmod>
+  </url><url>
+    <loc>https://bathaims.github.io/posts/</loc>
     <lastmod>2024-09-12T13:42:23+01:00</lastmod>
   </url><url>
-    <loc>/schedule/</loc>
+    <loc>https://bathaims.github.io/schedule/</loc>
     <lastmod>2024-09-12T13:42:23+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2023-01-01T10:28:10+08:00</lastmod>
+    <loc>https://bathaims.github.io/categories/</loc>
   </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://bathaims.github.io/tags/</loc>
   </url>
 </urlset>
