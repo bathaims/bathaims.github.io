@@ -1,7 +1,8 @@
-baseURL = 'https://bathaims.github.io'
+# baseURL = 'https://bathaims.github.io'
 languageCode = 'en-us'
 title = 'Applied and Interdisciplinary Mathematics at Bath'
 
 publishDir = "docs"
+# relativeURLs = true
 
 theme = 'no-style-please'
