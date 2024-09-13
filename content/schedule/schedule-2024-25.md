@@ -8,4 +8,4 @@ Click on the images below to enlarge.
 
 ## Semester 1
 
-[![Semester 1 schedule!](https://people.bath.ac.uk/hppt20/AIMS/AIMS_2425_Schedule.png)](https://people.bath.ac.uk/hppt20/AIMS/AIMS_2425_Schedule.png)
+[![Semester 1 schedule!](https://people.bath.ac.uk/hppt20/AIMS/AIMS_2425_Schedule.svg)](https://people.bath.ac.uk/hppt20/AIMS/AIMS_2425_Schedule.svg)
